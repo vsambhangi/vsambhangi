@@ -5,6 +5,6 @@
 🔍 Interests: Customer Analytics, Machine Learning, Network Optimization, Vehicle Routing  
 💻 Skills: Python, SQL, NetworkX, Pandas, Streamlit, Power BI, Tableau, SAP, Snowflake  
 📊 Projects: Churn Prediction, CLV Modeling, Dashboard Automation  
-📫 Reach me at: vsambhangi@horizon.csueastbay.edu  
+📫 Reach me at: venu.vkb@gmail.com 
 🌐  
 💃 Fun Fact: I’m a breakdancer and love performing rap!
